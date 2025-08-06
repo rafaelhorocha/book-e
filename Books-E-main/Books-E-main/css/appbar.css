@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#appbar{
+    background-color: #d9d9d9;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#appbar h1{
+    font-size: 40px;
+    margin-left: 15px;
+}
+#appBarDireita{
+    width: 400px;
+    display: flex;
+    margin-right: 20px;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+}
+#imgCarrinho{
+    width: 38px;
+}
+#divPerfil{
+    border-radius: 100%;
+    width: 55px;
+    height: 55px;
+}
+#imgPerfilPrincipal{
+    width: 55px;
+}
+#txtPesquisa{
+    width: 250px;
+    height: 27px;
+    border-radius: 13px;
+    border: 1px solid #000;
+    padding-left: 10px;
+}
