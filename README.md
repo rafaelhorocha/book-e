@@ -1,2 +1,2 @@
 # book-e
-projeto em php de uma livfaria online
+projeto em php de uma livraria online
